@@ -1,0 +1,4 @@
+playwright
+playwright-stealth
+img2pdf
+natsort
