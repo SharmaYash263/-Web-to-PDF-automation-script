@@ -1,6 +1,6 @@
 This project was developed to address the poor user interface and excessive advertisements found on digital content sites like readcomiconline.li
 
-Technical Components
+**Technical Components**
 Browser Automation: Utilizes Playwright and Playwright-Stealth to handle JavaScript-heavy sites and navigate security challenges like Cloudflare.
 
 Data Extraction: Employs Regex to identify titles, years, and issue numbers to ensure files are named and sorted correctly for library management (e.g., Title (Year) - Issue 01.pdf).
@@ -9,7 +9,7 @@ Quality Assurance: Includes logic to detect blank image placeholders and retry c
 
 System Efficiency: Automatically deletes temporary image files once the PDF is successfully generated to save local storage space.
 
-Setup and Requirements
+**Setup and Requirements**
 The following Python libraries are required to run the script:
 
 playwright
@@ -20,15 +20,21 @@ img2pdf
 
 natsort
 
-Installation:
+**Installation:**
 
-Install dependencies:
+
 
  pip install -r requirements.txt
 
-Install browser binaries:
-
  python -m playwright install chromium
+**To Run**
+
+Python Comic.py in Command Prompt or Git Bash
+
+Paste Link
+
+Select download type [ Full, Single, Ranged ] 
+Enter and allow run
 
  LEGAL DISCLAIMER
 1. Educational and Research Purpose Only
