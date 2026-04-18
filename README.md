@@ -10,20 +10,12 @@ Quality Assurance: Includes logic to detect blank image placeholders and retry c
 System Efficiency: Automatically deletes temporary image files once the PDF is successfully generated to save local storage space.
 
 **Setup and Requirements**
-The following Python libraries are required to run the script:
-
 playwright
-
 playwright-stealth
-
 img2pdf
-
 natsort
 
 **Installation:**
-
-
-
  pip install -r requirements.txt
 
  python -m playwright install chromium
