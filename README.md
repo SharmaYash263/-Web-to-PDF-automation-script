@@ -29,14 +29,14 @@ Select download type [ Full, Single, Ranged ]
 Enter and allow run
 
  LEGAL DISCLAIMER
-1. Educational and Research Purpose Only
+1. Educational and Research Purpose Only.
 This software framework is provided strictly for educational and research purposes concerning browser automation, system integrity, and data analysis. It is intended as a technical demonstration of the author’s proficiency in Python and Playwright, developed during his graduate studies at Texas State University.
 
-2. No Warranty (Provided "AS IS")
+2. No Warranty (Provided "AS IS").
 The software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author, Yash Sharma, be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
 
-3. User Responsibility and Compliance
+3. User Responsibility and Compliance.
 The user of this software assumes all responsibility for compliance with local, state, federal, and international laws, including but not limited to copyright and intellectual property statutes. The author does not condone, support, or encourage the use of this software for the unauthorized distribution or acquisition of copyrighted material
 
-4. Indemnification
+4. Indemnification.
 By using this software, you agree to indemnify and hold harmless the author from any and all claims, losses, liabilities, and expenses (including legal fees) arising from your use of the software or your violation of these terms.
