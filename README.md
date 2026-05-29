@@ -18,7 +18,6 @@ The following Python libraries are required:
 * `natsort`
 
 **Installation:**
-```text
 pip install -r requirements.txt
 python -m playwright install chromium
 To Run
