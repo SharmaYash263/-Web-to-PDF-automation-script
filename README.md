@@ -18,10 +18,10 @@ The following Python libraries are required:
 * `natsort`
 
 **Installation:**
-pip install -r requirements.txt
-python -m playwright install chromium
-To Run
-Run python Comic.py in Command Prompt
+*pip install -r requirements.txt
+*python -m playwright install chromium
+*To Run
+*Run python Comic.py in Command Prompt
 
 Paste Link
 
